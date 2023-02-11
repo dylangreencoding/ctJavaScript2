@@ -9,5 +9,10 @@ html {
 }
 
 body {
+  font-size: 5rem;
   background-color: darkslategray;
+}
+
+#the-promised-land {
+  font-style: italic;
 }
